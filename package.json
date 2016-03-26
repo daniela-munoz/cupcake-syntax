@@ -1,0 +1,17 @@
+{
+  "name": "cupcake-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Cupcake syntax for Atom based on Tomorrow theme",
+  "keywords": [
+    "cupcake",
+    "tomorrow",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/danielamunoz/cupcake-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
