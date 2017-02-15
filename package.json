@@ -1,7 +1,7 @@
 {
   "name": "cupcake-syntax",
   "theme": "syntax",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Cupcake syntax for Atom based on Tomorrow theme",
   "keywords": [
     "cupcake",
